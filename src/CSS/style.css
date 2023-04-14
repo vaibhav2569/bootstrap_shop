@@ -1,0 +1,26 @@
+.border_radius{
+    border-radius: 20px !important;
+   
+}
+
+.container_color{
+    background-color: #fef4f4;
+}
+
+.small_font{
+    font-size: 13px;
+}
+
+.color_purple{
+    background-color: #2949d8;
+    padding: 125px;
+}
+
+.container__paragraph{
+  color: white !important;
+  padding:  10px 150px 10px 150px;
+}
+
+.footer__last{
+    margin-top: 25px;
+}
